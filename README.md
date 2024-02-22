@@ -1,2 +1,2 @@
-# Aarti_Graded_JS_Lab2
+# Abi_Abraham_JS_Lab
 Simple Quiz using html css and javascript.
